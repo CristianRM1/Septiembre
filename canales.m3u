@@ -281,7 +281,7 @@ http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/69455
 #EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL PREMIERE" tvg-logo="https://i.imgur.com/VFgFDGv.png" group-title="** CHATEL TV **",UNIVERSAL PREMIERE
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/69457
 
-#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL REALITY" tvg-logo="https://imgur.com/ytbiV2V.png" group-title="*** CINEMA  ***",UNIVERSAL REALITY
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL REALITY" tvg-logo="https://imgur.com/ytbiV2V.png" group-title="** CHATEL TV **",UNIVERSAL REALITY
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/69461
 
 #EXTINF:-1 tvg-id="" tvg-name="TCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png" group-title="** CHATEL TV **",TCM
@@ -341,10 +341,10 @@ http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/11925
 #EXTINF:-1 tvg-id="" tvg-name="ADRENALINA SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Logo_Adrenalina-%2820q6%29.png" group-title="** CHATEL TV **",ADRENALINA SPORT
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/69357
 
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS LA LIGA" tvg-logo="https://i.ibb.co/fGYv501/Sin-t-tulo-1.png" group-title="** CHATEL TV **",SKY SPORTS 1
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS LA LIGA" tvg-logo="https://i.ibb.co/fGYv501/Sin-t-tulo-1.png" group-title="** CHATEL TV **",SKY SPORTS LA LIGA
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/31018
 
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS BUNDESLIGA" tvg-logo="https://i.ibb.co/fGYv501/Sin-t-tulo-1.png" group-title="** CHATEL TV **",SKY SPORTS 2
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS BUNDESLIGA" tvg-logo="https://i.ibb.co/fGYv501/Sin-t-tulo-1.png" group-title="** CHATEL TV **",SKY SPORTS BUNDESLIGA
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/27373
 
 #EXTINF:-1 tvg-id="" tvg-name="UFC NETWORK" tvg-logo="http://pngimg.com/uploads/ufc/ufc_PNG3.png" group-title="** CHATEL TV **",UFC NETWORK
@@ -413,13 +413,13 @@ http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/26026
 #EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg/1200px-DirecTV_Sports_Latin_America_-_2018_logo_v2.svg.png" group-title="** CHATEL TV **",DIRECTV SPORT
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/54601
 
-#EXTINF:-1 tvg-id="" tvg-name="DP: DIRECTV SPORT" tvg-logo="https://i.ibb.co/y0ZnwXH/Sin-t-tulo-1.png" group-title="*** DEPORTES LATINOS ***",DIRECTV SPORT
+#EXTINF:-1 tvg-id="" tvg-name="DP: DIRECTV SPORT" tvg-logo="https://i.ibb.co/y0ZnwXH/Sin-t-tulo-1.png" group-title="** CHATEL TV **",DIRECTV SPORT
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/43443
 
 #EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg/1200px-DirecTV_Sports_Latin_America_-_2018_logo_v2.svg.png" group-title="** CHATEL TV **",DIRECTV SPORT 2 
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/43443
 
-#EXTINF:-1 tvg-id="" tvg-name="AFIZZIONADOS" tvg-logo="https://i.ibb.co/2g4Bxx1/Sin-t-tulo-1.png" group-title="*** DEPORTES LATINOS ***",AFIZZIONADOS
+#EXTINF:-1 tvg-id="" tvg-name="AFIZZIONADOS" tvg-logo="https://i.ibb.co/2g4Bxx1/Sin-t-tulo-1.png" group-title="** CHATEL TV **",AFIZZIONADOS
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/218
 
 
